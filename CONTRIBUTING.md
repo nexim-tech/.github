@@ -1,11 +1,11 @@
 # Contributing to our projects
 
-We would love for you to contribute to Alwatr projects and help make it even better than it is today!
+We would love for you to contribute to Nexim Tech projects and help make it even better than it is today!
 As a contributor, here are the guidelines we would like you to follow:
 
 ## Code of Conduct
 
-Help us keep Alwatr projects open and inclusive.
+Help us keep Nexim Tech projects open and inclusive.
 Please read and follow our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## Found a Bug?
