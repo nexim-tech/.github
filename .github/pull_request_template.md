@@ -9,3 +9,4 @@
 - [ ] 📖 **User Guides:** Add necessary guides to the help document, including README or other help files (if applicable).
 - [ ] 🎨 **Formatting:** Ensure that the code is properly formatted.
 - [ ] 📅 **Daily Report:** Record the changes in the company's daily report, if applicable.
+- [ ] 🔄 **Rebase:** Ensure your branch is rebased and updated based on the default branch.
