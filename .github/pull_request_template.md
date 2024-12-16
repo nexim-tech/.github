@@ -10,3 +10,5 @@
 - [ ] 🎨 **Formatting:** Ensure that the code is properly formatted.
 - [ ] 📅 **Daily Report:** Record the changes in the company's daily report, if applicable.
 - [ ] 🔄 **Rebase:** Ensure your branch is rebased and updated based on the default branch.
+- [ ] ⬆️ **GitHub Project & Assignee:** Ensure this pull request is correctly assigned and added to the appropriate GitHub project with the correct status.
+- [ ] ✅ **Local Deployment Testing (If Applicable):**  If the changes affect the application's functionality, deploy and test the application locally to ensure it functions as expected.
