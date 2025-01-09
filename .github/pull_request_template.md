@@ -4,11 +4,21 @@
 
 ## Tasks
 
-- [ ] 📝 **Self-Review:** Ensure that you have thoroughly reviewed your own code changes.
-- [ ] 📚 **Code Documentation:** Update or create all necessary documentation within the code.
-- [ ] 📖 **User Guides:** Add necessary guides to the help document, including README or other help files (if applicable).
-- [ ] 🎨 **Formatting:** Ensure that the code is properly formatted.
-- [ ] 📅 **Daily Report:** Record the changes in the company's daily report, if applicable.
-- [ ] 🔄 **Rebase:** Ensure your branch is rebased and updated based on the default branch.
-- [ ] ⬆️ **GitHub Project & Assignee:** Ensure this pull request is correctly assigned and added to the appropriate GitHub project with the correct status.
-- [ ] ✅ **Local Deployment Testing (If Applicable):**  If the changes affect the application's functionality, deploy and test the application locally to ensure it functions as expected.
+**Code & Documentation:**
+
+- [ ] 📝 **Self-Review:** Thoroughly review your code changes.
+- [ ] 📚 **Code Documentation:** Update/create all necessary in-code documentation.
+- [ ] 📖 **User Guides (If Applicable):** Add necessary guides to README or other help files.
+- [ ] 🎨 **Formatting:** Ensure code is properly formatted.
+
+**Project Management & Tracking:**
+
+- [ ] 📅 **Daily Report (If Applicable):** Record changes in the company's daily report.
+- [ ] ⬆️ **GitHub Management:** Ensure PR is assigned, added to the correct project, and has appropriate labels. Confirm it adheres to the single purpose principle.
+- [ ] 🏷️ **Set Label:** Select and apply the appropriate label(s) for this pull request (e.g., bug, feature, enhancement, documentation).  This helps categorize and track the changes.
+- [ ] 🎯 **Single Purpose PR:** Confirm this PR addresses a single, well-defined change.
+
+**Deployment & Testing (If Applicable):**
+
+- [ ] 🔄 **Rebase:** Ensure your branch is rebased and updated.
+- [ ] ✅ **Local Deployment Testing:** Deploy and test locally if changes affect functionality.
